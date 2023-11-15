@@ -1,0 +1,27 @@
+<resources>
+
+        <!-- Base application theme. -->
+        <style name="AppTheme" parent="Base.Theme.Boletomovil">
+            <!-- Customize your theme here. -->
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+            <item name="colorControlHighlight">@color/disabled</item>
+
+            <item name="bm_toolbar_color">@android:color/white</item>
+            <item name="bm_toolbar_text_color">@android:color/black</item>
+            <item name="bm_toolbar_navigation_icon">@drawable/ic_back</item>
+            <item name="bm_toolbar_navigation_icon_tint">@android:color/black</item>
+            <item name="bm_primary_color">@color/bm_colorPrimary</item>
+            <item name="bm_accent_color">@color/colorAccent</item>
+
+            <!--  <item name="bm_store_toolbar_navigation">@drawable/ic_store_back</item>
+              <item name="bm_store_accent_color">@color/colorAccent</item>
+              <item name="bm_store_font_regular">@font/proximanova_regular</item>
+              <item name="bm_store_font_bold">@font/proximanova_bold</item>
+              <item name="bm_store_primary_color">@color/bm_colorPrimary</item>
+              <item name="bm_store_text_title_color">@android:color/white</item>
+              <item name="bm_store_icon_tint_color">@android:color/white</item>-->
+        </style>
+
+</resources>
